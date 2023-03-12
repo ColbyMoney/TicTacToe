@@ -1,2 +1,2 @@
 # TicTacToe
-A simple python tic tac toe game
+A simple python tic tac toe game.
